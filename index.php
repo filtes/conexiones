@@ -13,7 +13,7 @@
         <input type="text" name="name" placeholder="Nombre Completo">
         <input type="email" name="email" placeholder="Email">
         <input type="texto" name="password" placeholder="Contraseña">
-        <input type="date" name="fecha_reg" placeholder="Fecha de Registro">
+        <!-- <input type="date" name="fecha_reg" placeholder="Fecha de Registro"> -->
         <input type="submit" name="register" >
     </form>
     </div>
